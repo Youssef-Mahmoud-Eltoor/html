@@ -1,0 +1,48 @@
+<!doctype html>
+    <head>
+        <title>BMW Motocycles</title>
+        <meta class="description" content="The BMW Motorrad news Gallery">  </head>
+
+    <body>
+       <h1>BMW 
+        MOTORRAD</h1>
+         <P>
+            <img src="img/images.jpg"
+         </P>  
+         <h3>
+            <p>THE BMW Motocycles List</p>
+         </h3>
+        
+         <ol>
+           <h4>
+            <li>
+                <mark>Fast Bicks</mark>
+                <ul>
+                    <li>BMW M1000 2021</li>
+                    <img src="img/download.jpg">
+                    <p> BMW M1000 is a rumored motorcycle model from BMW Motorrad, the motorcycle division of BMW AG. However, as of my knowledge cutoff (2021), no such model has been officially announced or released by the company. The BMW M1000 is speculated to be a high-performance sportbike with cutting-edge technology and top-of-the-line components. It is expected to compete with other premium sports bikes in the market.</p>
+                    <li>BMW M1000 2019</li>
+                    <img srs="img/download (1).jpg" alt="picture of BMW M1000 2019 ">
+                    <p> BMW M1000 is a rumored motorcycle model from BMW Motorrad, the motorcycle division of BMW AG. However, as of my knowledge cutoff (2019), no such model has been officially announced or released by the company. The BMW M1000 is speculated to be a high-performance sportbike with cutting-edge technology and top-of-the-line components. It is expected to compete with other premium sports bikes in the market.</p>
+                </ul>
+            </li>
+           <h4>
+            <li>
+                <mark>Heritage Bicks </mark>
+                <ul>
+                    <li>Heritage Bicks 2000</li>
+                    <img src="img/download (2).jpg">
+                    <p> BMW has a rich heritage, dating back more than a century. The company has an impressive record of innovative engineering and design, having created some of the most iconic cars of all time. The BMW brand is synonymous with luxury, performance, and style.</p>
+                </ul>
+                
+
+            </li>
+         </h4> 
+
+         </ol>
+
+
+             <a href="https://www.bmw-motorrad.com/en/experience/stories/urban-mobility/concept-link.html" target="-black" >BMW Motocycles</a>
+         
+         </body>
+</html>
